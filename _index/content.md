@@ -1,28 +1,23 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://vineyardgazette.com/sites/default/files/article-assets/main-photos/2008/km_colin_day.jpg"
+name: "Colin Day"
+title: "Ninja Rockstar Space Superhighway Racer"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Colin is an amateur chef who does Software Engineering at Deliveroo in his free time*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+I cook mostly. Yesterday I made Potato Gnocchi.
 
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
+#### Favorite Foods
+* Ramen
+* Pasta
+* Curry
 
-#### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
+#### Favorite Appliances
+* Anova Sous Vide
+* Kitchen Aid Standmixer
+* Food Processor
 
-#### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
-
-#### Education Design and Management
-* Course development
-* Process creation for course authoring teams
+#### Future Endeavors / Purchases
+* Pressure Cooker
+* Vitamix Blender
